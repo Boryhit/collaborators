@@ -25,4 +25,6 @@ async function gerarSenha() {
     rl.close();
 }
 
+
 gerarSenha();
+//!Nao encontrei nenhum erro no seu codigo, parabens!
