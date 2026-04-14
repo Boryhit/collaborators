@@ -33,7 +33,7 @@ function cadastrando () {
             });
         });
     });
-}
+};
 
 function mostrarTotal() {
     let soma = 0;
@@ -45,6 +45,6 @@ function mostrarTotal() {
     console.log("Itens no carrinho:", cadastro);
 
     console.log("Total da compra:", soma);
-}
+};
 
 cadastrando();
